@@ -1,7 +1,6 @@
-
-<center>
-    <img src="https://github.com/globalaihub/introduction-to-machine-learning/blob/main/Decision%20Trees/img/logo.png" />
-</center>
+<div align="center">
+  <img src="https://github.com/globalaihub/introduction-to-machine-learning/blob/main/Decision%20Trees/img/logo.png">
+</div>
 
 # Welcome to our Introduction to Machine Learning Course Repo!
 
