@@ -1,6 +1,4 @@
 
-<div style="text-align:center"><img src="https://github.com/globalaihub/introduction-to-machine-learning/blob/main/Decision%20Trees/img/logo.png" /></div> 
-
 <center>
     <img src="https://github.com/globalaihub/introduction-to-machine-learning/blob/main/Decision%20Trees/img/logo.png" />
 </center>
