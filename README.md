@@ -1,4 +1,4 @@
-# Welcome to out Introduction to Machine Learning Course Repo!
+# Welcome to our Introduction to Machine Learning Course Repo!
 
 ## Syllabus
 
