@@ -1,8 +1,8 @@
 # Welcome to our Introduction to Machine Learning Course Repo!
 
-You can find more information about our Introduction to Machine Learning Course by visiting [Course Website](https://globalaihub.com/introduction-to-machine-learning/)
+You can find more information about our Introduction to Machine Learning Course by visiting [Course Website.](https://globalaihub.com/introduction-to-machine-learning/)
 
-To enroll our courses, you can find the next course that fit your schedule by visiting [Upcoming Courses](https://globalaihub.com/upcoming-courses/)
+To enroll our courses, you can find the next course that fit your schedule by visiting [Upcoming Courses.](https://globalaihub.com/upcoming-courses/)
 
 ## Syllabus
 
