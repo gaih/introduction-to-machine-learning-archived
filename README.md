@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/globalaihub/introduction-to-machine-learning/blob/main/Decision%20Trees/img/logo.png">
+  <img src="logo.png">
 </div>
 
 # Welcome to our Introduction to Machine Learning Course Repo!
