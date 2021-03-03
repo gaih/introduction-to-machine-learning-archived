@@ -30,4 +30,4 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 
 
 ## Certification Example
-![Certificate](ML_Certificate.png)
+![Certificate](mlCertificate.png)
